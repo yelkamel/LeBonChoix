@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">6bD6eRDjeuqiakcKZnCr3FCjEvK1NyTRI1YcM</string>
+    <string name="app_name">LeBonChoix</string>
+</resources>
